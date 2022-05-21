@@ -1,6 +1,6 @@
 <h1 align="center">Task Create Vue</h1>
 
-<p align="center">🤖 Fraude pix was a landing page that the folks at Resolv proposed to make for this pix bot they created</p>
+<p align="center">⏭️ Project created to train features such as methods, computed among others in vue js</p>
 
 <p align="center">To start the project just run the commands below</p>
 
